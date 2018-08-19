@@ -1,145 +1,145 @@
 # emojis
 very important emojis
 
-**:abe:** <img src="./abe.png" height="32">
+**:abe:** <img src="./emojis/abe.png" height="32">
 
-**:angelici:** <img src="./angelici.jpg" height="32">
+**:angelici:** <img src="./emojis/angelici.jpg" height="32">
 
-**:asis:** <img src="./asis.png" height="32">
+**:asis:** <img src="./emojis/asis.png" height="32">
 
-**:atendedor:** <img src="./atendedor.jpg" height="32">
+**:atendedor:** <img src="./emojis/atendedor.jpg" height="32">
 
-**:auth0:** <img src="./auth0.png" height="32">
+**:auth0:** <img src="./emojis/auth0.png" height="32">
 
-**:bakunin:** <img src="./bakunin.gif" height="32">
+**:bakunin:** <img src="./emojis/bakunin.gif" height="32">
 
-**:bono:** <img src="./bono.jpg" height="32">
+**:bono:** <img src="./emojis/bono.jpg" height="32">
 
-**:careta:** <img src="./careta.png" height="32">
+**:careta:** <img src="./emojis/careta.png" height="32">
 
-**:carrio:** <img src="./carrio.png" height="32">
+**:carrio:** <img src="./emojis/carrio.png" height="32">
 
-**:caruso:** <img src="./caruso.png" height="32">
+**:caruso:** <img src="./emojis/caruso.png" height="32">
 
-**:cavallo:** <img src="./cavallo.jpg" height="32">
+**:cavallo:** <img src="./emojis/cavallo.jpg" height="32">
 
-**:chacal:** <img src="./chacal.jpg" height="32">
+**:chacal:** <img src="./emojis/chacal.jpg" height="32">
 
-**:chavez:** <img src="./chavez.png" height="32">
+**:chavez:** <img src="./emojis/chavez.png" height="32">
 
-**:clojure:** <img src="./clojure.png" height="32">
+**:clojure:** <img src="./emojis/clojure.png" height="32">
 
-**:coco:** <img src="./coco.jpg" height="32">
+**:coco:** <img src="./emojis/coco.jpg" height="32">
 
-**:conchita:** <img src="./conchita.png" height="32">
+**:conchita:** <img src="./emojis/conchita.png" height="32">
 
-**:diegote:** <img src="./diegote.jpg" height="32">
+**:diegote:** <img src="./emojis/diegote.jpg" height="32">
 
-**:docker:** <img src="./docker.png" height="32">
+**:docker:** <img src="./emojis/docker.png" height="32">
 
-**:dujovne:** <img src="./dujovne.png" height="32">
+**:dujovne:** <img src="./emojis/dujovne.png" height="32">
 
-**:emacs:** <img src="./emacs.png" height="32">
+**:emacs:** <img src="./emojis/emacs.png" height="32">
 
-**:escritorio:** <img src="./escritorio.jpg" height="32">
+**:escritorio:** <img src="./emojis/escritorio.jpg" height="32">
 
-**:espert:** <img src="./espert.png" height="32">
+**:espert:** <img src="./emojis/espert.png" height="32">
 
-**:evil:** <img src="./evil.jpg" height="32">
+**:evil:** <img src="./emojis/evil.jpg" height="32">
 
-**:facepalm:** <img src="./facepalm.png" height="32">
+**:facepalm:** <img src="./emojis/facepalm.png" height="32">
 
-**:facturas:** <img src="./facturas.png" height="32">
+**:facturas:** <img src="./emojis/facturas.png" height="32">
 
-**:flinstone:** <img src="./flinstone.png" height="32">
+**:flinstone:** <img src="./emojis/flinstone.png" height="32">
 
-**:fort:** <img src="./fort.jpg" height="32">
+**:fort:** <img src="./emojis/fort.jpg" height="32">
 
-**:gallardo:** <img src="./gallardo.png" height="32">
+**:gallardo:** <img src="./emojis/gallardo.png" height="32">
 
-**:gatorei:** <img src="./gatorei.png" height="32">
+**:gatorei:** <img src="./emojis/gatorei.png" height="32">
 
-**:hacker:** <img src="./hacker.jpg" height="32">
+**:hacker:** <img src="./emojis/hacker.jpg" height="32">
 
-**:haskell:** <img src="./haskell.png" height="32">
+**:haskell:** <img src="./emojis/haskell.png" height="32">
 
-**:hfacepalm:** <img src="./hfacepalm.png" height="32">
+**:hfacepalm:** <img src="./emojis/hfacepalm.png" height="32">
 
-**:hitler:** <img src="./hitler.jpg" height="32">
+**:hitler:** <img src="./emojis/hitler.jpg" height="32">
 
-**:inchequeable:** <img src="./inchequeable.png" height="32">
+**:inchequeable:** <img src="./emojis/inchequeable.png" height="32">
 
-**:iorio:** <img src="./iorio.jpg" height="32">
+**:iorio:** <img src="./emojis/iorio.jpg" height="32">
 
-**:iorio2:** <img src="./iorio2.png" height="32">
+**:iorio2:** <img src="./emojis/iorio2.png" height="32">
 
-**:jira:** <img src="./jira.jpg" height="32">
+**:jira:** <img src="./emojis/jira.jpg" height="32">
 
-**:kafka:** <img src="./kafka.jpg" height="32">
+**:kafka:** <img src="./emojis/kafka.jpg" height="32">
 
-**:kfacepalm:** <img src="./kfacepalm.png" height="32">
+**:kfacepalm:** <img src="./emojis/kfacepalm.png" height="32">
 
-**:kuka:** <img src="./kuka.png" height="32">
+**:kuka:** <img src="./emojis/kuka.png" height="32">
 
-**:lambda:** <img src="./lambda.png" height="32">
+**:lambda:** <img src="./emojis/lambda.png" height="32">
 
-**:lamolina:** <img src="./lamolina.png" height="32">
+**:lamolina:** <img src="./emojis/lamolina.png" height="32">
 
-**:lenin:** <img src="./lenin.png" height="32">
+**:lenin:** <img src="./emojis/lenin.png" height="32">
 
-**:macri:** <img src="./macri.jpg" height="32">
+**:macri:** <img src="./emojis/macri.jpg" height="32">
 
-**:mao:** <img src="./mao.jpg" height="32">
+**:mao:** <img src="./emojis/mao.jpg" height="32">
 
-**:menem:** <img src="./menem.jpg" height="32">
+**:menem:** <img src="./emojis/menem.jpg" height="32">
 
-**:mfacepalm:** <img src="./mfacepalm.png" height="32">
+**:mfacepalm:** <img src="./emojis/mfacepalm.png" height="32">
 
-**:milei:** <img src="./milei.jpg" height="32">
+**:milei:** <img src="./emojis/milei.jpg" height="32">
 
-**:mirtha:** <img src="./mirtha.jpg" height="32">
+**:mirtha:** <img src="./emojis/mirtha.jpg" height="32">
 
-**:mussolini:** <img src="./mussolini.jpg" height="32">
+**:mussolini:** <img src="./emojis/mussolini.jpg" height="32">
 
-**:niembro:** <img src="./niembro.png" height="32">
+**:niembro:** <img src="./emojis/niembro.png" height="32">
 
-**:okay:** <img src="./okay.png" height="32">
+**:okay:** <img src="./emojis/okay.png" height="32">
 
-**:pagani:** <img src="./pagani.jpg" height="32">
+**:pagani:** <img src="./emojis/pagani.jpg" height="32">
 
-**:paoli:** <img src="./paoli.png" height="32">
+**:paoli:** <img src="./emojis/paoli.png" height="32">
 
-**:pato:** <img src="./pato.png" height="32">
+**:pato:** <img src="./emojis/pato.png" height="32">
 
-**:peron:** <img src="./peron.png" height="32">
+**:peron:** <img src="./emojis/peron.png" height="32">
 
-**:pinedo:** <img src="./pinedo.jpg" height="32">
+**:pinedo:** <img src="./emojis/pinedo.jpg" height="32">
 
-**:pity:** <img src="./pity.png" height="32">
+**:pity:** <img src="./emojis/pity.png" height="32">
 
-**:putin:** <img src="./putin.png" height="32">
+**:putin:** <img src="./emojis/putin.png" height="32">
 
-**:pyme:** <img src="./pyme.jpg" height="32">
+**:pyme:** <img src="./emojis/pyme.jpg" height="32">
 
-**:ramon:** <img src="./ramon.png" height="32">
+**:ramon:** <img src="./emojis/ramon.png" height="32">
 
-**:rico:** <img src="./rico.jpg" height="32">
+**:rico:** <img src="./emojis/rico.jpg" height="32">
 
-**:smoke:** <img src="./smoke.gif" height="32">
+**:smoke:** <img src="./emojis/smoke.gif" height="32">
 
-**:snowden:** <img src="./snowden.jpg" height="32">
+**:snowden:** <img src="./emojis/snowden.jpg" height="32">
 
-**:stalin:** <img src="./stalin.jpg" height="32">
+**:stalin:** <img src="./emojis/stalin.jpg" height="32">
 
-**:til:** <img src="./til.png" height="32">
+**:til:** <img src="./emojis/til.png" height="32">
 
-**:toggl:** <img src="./toggl.png" height="32">
+**:toggl:** <img src="./emojis/toggl.png" height="32">
 
-**:travis:** <img src="./travis.png" height="32">
+**:travis:** <img src="./emojis/travis.png" height="32">
 
-**:troll:** <img src="./troll.png" height="32">
+**:troll:** <img src="./emojis/troll.png" height="32">
 
-**:trump:** <img src="./trump.png" height="32">
+**:trump:** <img src="./emojis/trump.png" height="32">
 
-**:yono:** <img src="./yono.png" height="32">
+**:yono:** <img src="./emojis/yono.png" height="32">
 
