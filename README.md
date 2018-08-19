@@ -1,7 +1,7 @@
 # emojis
 very important emojis
 
-| code | image |
+| image | code |
 |:----:|:-----:|
 | <img src="./emojis/abe.png" height="32"> |`:abe:` |
 | <img src="./emojis/angelici.jpg" height="32"> |`:angelici:` |
