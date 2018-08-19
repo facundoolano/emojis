@@ -1,145 +1,145 @@
 # emojis
 very important emojis
 
-**:abe:** <img src="./emojis/abe.png" height="32">
+<img src="./emojis/abe.png" height="32"> **:abe:**
 
-**:angelici:** <img src="./emojis/angelici.jpg" height="32">
+<img src="./emojis/angelici.jpg" height="32"> **:angelici:**
 
-**:asis:** <img src="./emojis/asis.png" height="32">
+<img src="./emojis/asis.png" height="32"> **:asis:**
 
-**:atendedor:** <img src="./emojis/atendedor.jpg" height="32">
+<img src="./emojis/atendedor.jpg" height="32"> **:atendedor:**
 
-**:auth0:** <img src="./emojis/auth0.png" height="32">
+<img src="./emojis/auth0.png" height="32"> **:auth0:**
 
-**:bakunin:** <img src="./emojis/bakunin.gif" height="32">
+<img src="./emojis/bakunin.gif" height="32"> **:bakunin:**
 
-**:bono:** <img src="./emojis/bono.jpg" height="32">
+<img src="./emojis/bono.jpg" height="32"> **:bono:**
 
-**:careta:** <img src="./emojis/careta.png" height="32">
+<img src="./emojis/careta.png" height="32"> **:careta:**
 
-**:carrio:** <img src="./emojis/carrio.png" height="32">
+<img src="./emojis/carrio.png" height="32"> **:carrio:**
 
-**:caruso:** <img src="./emojis/caruso.png" height="32">
+<img src="./emojis/caruso.png" height="32"> **:caruso:**
 
-**:cavallo:** <img src="./emojis/cavallo.jpg" height="32">
+<img src="./emojis/cavallo.jpg" height="32"> **:cavallo:**
 
-**:chacal:** <img src="./emojis/chacal.jpg" height="32">
+<img src="./emojis/chacal.jpg" height="32"> **:chacal:**
 
-**:chavez:** <img src="./emojis/chavez.png" height="32">
+<img src="./emojis/chavez.png" height="32"> **:chavez:**
 
-**:clojure:** <img src="./emojis/clojure.png" height="32">
+<img src="./emojis/clojure.png" height="32"> **:clojure:**
 
-**:coco:** <img src="./emojis/coco.jpg" height="32">
+<img src="./emojis/coco.jpg" height="32"> **:coco:**
 
-**:conchita:** <img src="./emojis/conchita.png" height="32">
+<img src="./emojis/conchita.png" height="32"> **:conchita:**
 
-**:diegote:** <img src="./emojis/diegote.jpg" height="32">
+<img src="./emojis/diegote.jpg" height="32"> **:diegote:**
 
-**:docker:** <img src="./emojis/docker.png" height="32">
+<img src="./emojis/docker.png" height="32"> **:docker:**
 
-**:dujovne:** <img src="./emojis/dujovne.png" height="32">
+<img src="./emojis/dujovne.png" height="32"> **:dujovne:**
 
-**:emacs:** <img src="./emojis/emacs.png" height="32">
+<img src="./emojis/emacs.png" height="32"> **:emacs:**
 
-**:escritorio:** <img src="./emojis/escritorio.jpg" height="32">
+<img src="./emojis/escritorio.jpg" height="32"> **:escritorio:**
 
-**:espert:** <img src="./emojis/espert.png" height="32">
+<img src="./emojis/espert.png" height="32"> **:espert:**
 
-**:evil:** <img src="./emojis/evil.jpg" height="32">
+<img src="./emojis/evil.jpg" height="32"> **:evil:**
 
-**:facepalm:** <img src="./emojis/facepalm.png" height="32">
+<img src="./emojis/facepalm.png" height="32"> **:facepalm:**
 
-**:facturas:** <img src="./emojis/facturas.png" height="32">
+<img src="./emojis/facturas.png" height="32"> **:facturas:**
 
-**:flinstone:** <img src="./emojis/flinstone.png" height="32">
+<img src="./emojis/flinstone.png" height="32"> **:flinstone:**
 
-**:fort:** <img src="./emojis/fort.jpg" height="32">
+<img src="./emojis/fort.jpg" height="32"> **:fort:**
 
-**:gallardo:** <img src="./emojis/gallardo.png" height="32">
+<img src="./emojis/gallardo.png" height="32"> **:gallardo:**
 
-**:gatorei:** <img src="./emojis/gatorei.png" height="32">
+<img src="./emojis/gatorei.png" height="32"> **:gatorei:**
 
-**:hacker:** <img src="./emojis/hacker.jpg" height="32">
+<img src="./emojis/hacker.jpg" height="32"> **:hacker:**
 
-**:haskell:** <img src="./emojis/haskell.png" height="32">
+<img src="./emojis/haskell.png" height="32"> **:haskell:**
 
-**:hfacepalm:** <img src="./emojis/hfacepalm.png" height="32">
+<img src="./emojis/hfacepalm.png" height="32"> **:hfacepalm:**
 
-**:hitler:** <img src="./emojis/hitler.jpg" height="32">
+<img src="./emojis/hitler.jpg" height="32"> **:hitler:**
 
-**:inchequeable:** <img src="./emojis/inchequeable.png" height="32">
+<img src="./emojis/inchequeable.png" height="32"> **:inchequeable:**
 
-**:iorio:** <img src="./emojis/iorio.jpg" height="32">
+<img src="./emojis/iorio.jpg" height="32"> **:iorio:**
 
-**:iorio2:** <img src="./emojis/iorio2.png" height="32">
+<img src="./emojis/iorio2.png" height="32"> **:iorio2:**
 
-**:jira:** <img src="./emojis/jira.jpg" height="32">
+<img src="./emojis/jira.jpg" height="32"> **:jira:**
 
-**:kafka:** <img src="./emojis/kafka.jpg" height="32">
+<img src="./emojis/kafka.jpg" height="32"> **:kafka:**
 
-**:kfacepalm:** <img src="./emojis/kfacepalm.png" height="32">
+<img src="./emojis/kfacepalm.png" height="32"> **:kfacepalm:**
 
-**:kuka:** <img src="./emojis/kuka.png" height="32">
+<img src="./emojis/kuka.png" height="32"> **:kuka:**
 
-**:lambda:** <img src="./emojis/lambda.png" height="32">
+<img src="./emojis/lambda.png" height="32"> **:lambda:**
 
-**:lamolina:** <img src="./emojis/lamolina.png" height="32">
+<img src="./emojis/lamolina.png" height="32"> **:lamolina:**
 
-**:lenin:** <img src="./emojis/lenin.png" height="32">
+<img src="./emojis/lenin.png" height="32"> **:lenin:**
 
-**:macri:** <img src="./emojis/macri.jpg" height="32">
+<img src="./emojis/macri.jpg" height="32"> **:macri:**
 
-**:mao:** <img src="./emojis/mao.jpg" height="32">
+<img src="./emojis/mao.jpg" height="32"> **:mao:**
 
-**:menem:** <img src="./emojis/menem.jpg" height="32">
+<img src="./emojis/menem.jpg" height="32"> **:menem:**
 
-**:mfacepalm:** <img src="./emojis/mfacepalm.png" height="32">
+<img src="./emojis/mfacepalm.png" height="32"> **:mfacepalm:**
 
-**:milei:** <img src="./emojis/milei.jpg" height="32">
+<img src="./emojis/milei.jpg" height="32"> **:milei:**
 
-**:mirtha:** <img src="./emojis/mirtha.jpg" height="32">
+<img src="./emojis/mirtha.jpg" height="32"> **:mirtha:**
 
-**:mussolini:** <img src="./emojis/mussolini.jpg" height="32">
+<img src="./emojis/mussolini.jpg" height="32"> **:mussolini:**
 
-**:niembro:** <img src="./emojis/niembro.png" height="32">
+<img src="./emojis/niembro.png" height="32"> **:niembro:**
 
-**:okay:** <img src="./emojis/okay.png" height="32">
+<img src="./emojis/okay.png" height="32"> **:okay:**
 
-**:pagani:** <img src="./emojis/pagani.jpg" height="32">
+<img src="./emojis/pagani.jpg" height="32"> **:pagani:**
 
-**:paoli:** <img src="./emojis/paoli.png" height="32">
+<img src="./emojis/paoli.png" height="32"> **:paoli:**
 
-**:pato:** <img src="./emojis/pato.png" height="32">
+<img src="./emojis/pato.png" height="32"> **:pato:**
 
-**:peron:** <img src="./emojis/peron.png" height="32">
+<img src="./emojis/peron.png" height="32"> **:peron:**
 
-**:pinedo:** <img src="./emojis/pinedo.jpg" height="32">
+<img src="./emojis/pinedo.jpg" height="32"> **:pinedo:**
 
-**:pity:** <img src="./emojis/pity.png" height="32">
+<img src="./emojis/pity.png" height="32"> **:pity:**
 
-**:putin:** <img src="./emojis/putin.png" height="32">
+<img src="./emojis/putin.png" height="32"> **:putin:**
 
-**:pyme:** <img src="./emojis/pyme.jpg" height="32">
+<img src="./emojis/pyme.jpg" height="32"> **:pyme:**
 
-**:ramon:** <img src="./emojis/ramon.png" height="32">
+<img src="./emojis/ramon.png" height="32"> **:ramon:**
 
-**:rico:** <img src="./emojis/rico.jpg" height="32">
+<img src="./emojis/rico.jpg" height="32"> **:rico:**
 
-**:smoke:** <img src="./emojis/smoke.gif" height="32">
+<img src="./emojis/smoke.gif" height="32"> **:smoke:**
 
-**:snowden:** <img src="./emojis/snowden.jpg" height="32">
+<img src="./emojis/snowden.jpg" height="32"> **:snowden:**
 
-**:stalin:** <img src="./emojis/stalin.jpg" height="32">
+<img src="./emojis/stalin.jpg" height="32"> **:stalin:**
 
-**:til:** <img src="./emojis/til.png" height="32">
+<img src="./emojis/til.png" height="32"> **:til:**
 
-**:toggl:** <img src="./emojis/toggl.png" height="32">
+<img src="./emojis/toggl.png" height="32"> **:toggl:**
 
-**:travis:** <img src="./emojis/travis.png" height="32">
+<img src="./emojis/travis.png" height="32"> **:travis:**
 
-**:troll:** <img src="./emojis/troll.png" height="32">
+<img src="./emojis/troll.png" height="32"> **:troll:**
 
-**:trump:** <img src="./emojis/trump.png" height="32">
+<img src="./emojis/trump.png" height="32"> **:trump:**
 
-**:yono:** <img src="./emojis/yono.png" height="32">
+<img src="./emojis/yono.png" height="32"> **:yono:**
 

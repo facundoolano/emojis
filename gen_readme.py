@@ -10,7 +10,7 @@ def build_markdown():
     for image in image_files():
         path = "./emojis/" + image
         name = image.split('.')[0]
-        output += "\n**:{}:** <img src=\"{}\" height=\"32\">\n".format(name, path)
+        output += "\n<img src=\"{}\" height=\"32\">  **:{}:**\n".format(path, name)
 
     return output
 
