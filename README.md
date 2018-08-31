@@ -47,6 +47,7 @@ very important emojis
 | <img src="./emojis/lamolina.png" height="32"> |`:lamolina:` |
 | <img src="./emojis/lenin.png" height="32"> |`:lenin:` |
 | <img src="./emojis/macri.jpg" height="32"> |`:macri:` |
+| <img src="./emojis/malafama.png" height="32"> |`:malafama:` |
 | <img src="./emojis/mao.jpg" height="32"> |`:mao:` |
 | <img src="./emojis/menem.jpg" height="32"> |`:menem:` |
 | <img src="./emojis/mfacepalm.png" height="32"> |`:mfacepalm:` |
@@ -61,6 +62,7 @@ very important emojis
 | <img src="./emojis/peron.png" height="32"> |`:peron:` |
 | <img src="./emojis/pinedo.jpg" height="32"> |`:pinedo:` |
 | <img src="./emojis/pity.png" height="32"> |`:pity:` |
+| <img src="./emojis/pr7.png" height="32"> |`:pr7:` |
 | <img src="./emojis/putin.png" height="32"> |`:putin:` |
 | <img src="./emojis/pyme.jpg" height="32"> |`:pyme:` |
 | <img src="./emojis/ramon.png" height="32"> |`:ramon:` |
@@ -74,4 +76,6 @@ very important emojis
 | <img src="./emojis/troll.png" height="32"> |`:troll:` |
 | <img src="./emojis/trump.png" height="32"> |`:trump:` |
 | <img src="./emojis/yono.png" height="32"> |`:yono:` |
+| <img src="./emojis/zappa.png" height="32"> |`:zappa:` |
+| <img src="./emojis/zappa2.png" height="32"> |`:zappa2:` |
 
