@@ -19,6 +19,7 @@ very important emojis
 | <img src="./emojis/clojure.png" height="32"> |`:clojure:` |
 | <img src="./emojis/coco.jpg" height="32"> |`:coco:` |
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
+| <img src="./emojis/confused.png" height="32"> |`:confused:` |
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
 | <img src="./emojis/docker.png" height="32"> |`:docker:` |
 | <img src="./emojis/dujovne.png" height="32"> |`:dujovne:` |
