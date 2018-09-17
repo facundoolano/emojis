@@ -5,6 +5,7 @@ very important emojis
 |:----:|:-----:|
 | <img src="./emojis/abe.png" height="32"> |`:abe:` |
 | <img src="./emojis/angelici.jpg" height="32"> |`:angelici:` |
+| <img src="./emojis/anibal.png" height="32"> |`:anibal:` |
 | <img src="./emojis/asis.png" height="32"> |`:asis:` |
 | <img src="./emojis/atendedor.jpg" height="32"> |`:atendedor:` |
 | <img src="./emojis/auth0.png" height="32"> |`:auth0:` |
@@ -48,6 +49,7 @@ very important emojis
 | <img src="./emojis/lamolina.png" height="32"> |`:lamolina:` |
 | <img src="./emojis/lenin.png" height="32"> |`:lenin:` |
 | <img src="./emojis/macri.jpg" height="32"> |`:macri:` |
+| <img src="./emojis/maestro.png" height="32"> |`:maestro:` |
 | <img src="./emojis/malafama.png" height="32"> |`:malafama:` |
 | <img src="./emojis/mao.jpg" height="32"> |`:mao:` |
 | <img src="./emojis/menem.jpg" height="32"> |`:menem:` |
@@ -79,4 +81,6 @@ very important emojis
 | <img src="./emojis/yono.png" height="32"> |`:yono:` |
 | <img src="./emojis/zappa.png" height="32"> |`:zappa:` |
 | <img src="./emojis/zappa2.png" height="32"> |`:zappa2:` |
+| <img src="./emojis/zappawhat.png" height="32"> |`:zappawhat:` |
+| <img src="./emojis/zappawhat2.png" height="32"> |`:zappawhat2:` |
 
