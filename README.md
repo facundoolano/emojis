@@ -30,6 +30,7 @@ very important emojis
 | <img src="./emojis/evil.jpg" height="32"> |`:evil:` |
 | <img src="./emojis/facepalm.png" height="32"> |`:facepalm:` |
 | <img src="./emojis/facturas.png" height="32"> |`:facturas:` |
+| <img src="./emojis/fantino.png" height="32"> |`:fantino:` |
 | <img src="./emojis/flinstone.png" height="32"> |`:flinstone:` |
 | <img src="./emojis/fort.jpg" height="32"> |`:fort:` |
 | <img src="./emojis/gallardo.png" height="32"> |`:gallardo:` |
@@ -69,6 +70,7 @@ very important emojis
 | <img src="./emojis/putin.png" height="32"> |`:putin:` |
 | <img src="./emojis/pyme.jpg" height="32"> |`:pyme:` |
 | <img src="./emojis/ramon.png" height="32"> |`:ramon:` |
+| <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
 | <img src="./emojis/snowden.jpg" height="32"> |`:snowden:` |
@@ -78,6 +80,7 @@ very important emojis
 | <img src="./emojis/travis.png" height="32"> |`:travis:` |
 | <img src="./emojis/troll.png" height="32"> |`:troll:` |
 | <img src="./emojis/trump.png" height="32"> |`:trump:` |
+| <img src="./emojis/yellow-card.png" height="32"> |`:yellow-card:` |
 | <img src="./emojis/yono.png" height="32"> |`:yono:` |
 | <img src="./emojis/zappa.png" height="32"> |`:zappa:` |
 | <img src="./emojis/zappa2.png" height="32"> |`:zappa2:` |
