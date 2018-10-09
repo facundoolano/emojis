@@ -15,6 +15,7 @@ very important emojis
 | <img src="./emojis/carrio.png" height="32"> |`:carrio:` |
 | <img src="./emojis/caruso.png" height="32"> |`:caruso:` |
 | <img src="./emojis/cavallo.jpg" height="32"> |`:cavallo:` |
+| <img src="./emojis/cgt.png" height="32"> |`:cgt:` |
 | <img src="./emojis/chacal.jpg" height="32"> |`:chacal:` |
 | <img src="./emojis/chavez.png" height="32"> |`:chavez:` |
 | <img src="./emojis/clojure.png" height="32"> |`:clojure:` |
@@ -60,6 +61,8 @@ very important emojis
 | <img src="./emojis/mussolini.jpg" height="32"> |`:mussolini:` |
 | <img src="./emojis/niembro.png" height="32"> |`:niembro:` |
 | <img src="./emojis/okay.png" height="32"> |`:okay:` |
+| <img src="./emojis/ono.png" height="32"> |`:ono:` |
+| <img src="./emojis/osi.png" height="32"> |`:osi:` |
 | <img src="./emojis/pagani.jpg" height="32"> |`:pagani:` |
 | <img src="./emojis/paoli.png" height="32"> |`:paoli:` |
 | <img src="./emojis/pato.png" height="32"> |`:pato:` |
@@ -74,6 +77,7 @@ very important emojis
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
 | <img src="./emojis/snowden.jpg" height="32"> |`:snowden:` |
+| <img src="./emojis/sobrero.png" height="32"> |`:sobrero:` |
 | <img src="./emojis/stalin.jpg" height="32"> |`:stalin:` |
 | <img src="./emojis/til.png" height="32"> |`:til:` |
 | <img src="./emojis/toggl.png" height="32"> |`:toggl:` |
