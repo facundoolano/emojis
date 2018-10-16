@@ -56,8 +56,9 @@ very important emojis
 | <img src="./emojis/mao.jpg" height="32"> |`:mao:` |
 | <img src="./emojis/menem.jpg" height="32"> |`:menem:` |
 | <img src="./emojis/mfacepalm.png" height="32"> |`:mfacepalm:` |
-| <img src="./emojis/milei.jpg" height="32"> |`:milei:` |
+| <img src="./emojis/milei.png" height="32"> |`:milei:` |
 | <img src="./emojis/mirtha.jpg" height="32"> |`:mirtha:` |
+| <img src="./emojis/moyano.png" height="32"> |`:moyano:` |
 | <img src="./emojis/mussolini.jpg" height="32"> |`:mussolini:` |
 | <img src="./emojis/niembro.png" height="32"> |`:niembro:` |
 | <img src="./emojis/okay.png" height="32"> |`:okay:` |
