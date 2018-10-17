@@ -49,6 +49,7 @@ very important emojis
 | <img src="./emojis/kuka.png" height="32"> |`:kuka:` |
 | <img src="./emojis/lambda.png" height="32"> |`:lambda:` |
 | <img src="./emojis/lamolina.png" height="32"> |`:lamolina:` |
+| <img src="./emojis/lastima-no.png" height="32"> |`:lastima-no:` |
 | <img src="./emojis/lenin.png" height="32"> |`:lenin:` |
 | <img src="./emojis/macri.jpg" height="32"> |`:macri:` |
 | <img src="./emojis/maestro.png" height="32"> |`:maestro:` |
@@ -76,6 +77,7 @@ very important emojis
 | <img src="./emojis/ramon.png" height="32"> |`:ramon:` |
 | <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
+| <img src="./emojis/samid.png" height="32"> |`:samid:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
 | <img src="./emojis/snowden.jpg" height="32"> |`:snowden:` |
 | <img src="./emojis/sobrero.png" height="32"> |`:sobrero:` |
@@ -85,6 +87,7 @@ very important emojis
 | <img src="./emojis/travis.png" height="32"> |`:travis:` |
 | <img src="./emojis/troll.png" height="32"> |`:troll:` |
 | <img src="./emojis/trump.png" height="32"> |`:trump:` |
+| <img src="./emojis/viale.png" height="32"> |`:viale:` |
 | <img src="./emojis/yellow-card.png" height="32"> |`:yellow-card:` |
 | <img src="./emojis/yono.png" height="32"> |`:yono:` |
 | <img src="./emojis/zappa.png" height="32"> |`:zappa:` |
