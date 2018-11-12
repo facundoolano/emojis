@@ -18,6 +18,7 @@ very important emojis
 | <img src="./emojis/cgt.png" height="32"> |`:cgt:` |
 | <img src="./emojis/chacal.jpg" height="32"> |`:chacal:` |
 | <img src="./emojis/chavez.png" height="32"> |`:chavez:` |
+| <img src="./emojis/chiqui.png" height="32"> |`:chiqui:` |
 | <img src="./emojis/clojure.png" height="32"> |`:clojure:` |
 | <img src="./emojis/coco.jpg" height="32"> |`:coco:` |
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
@@ -74,6 +75,7 @@ very important emojis
 | <img src="./emojis/pr7.png" height="32"> |`:pr7:` |
 | <img src="./emojis/putin.png" height="32"> |`:putin:` |
 | <img src="./emojis/pyme.jpg" height="32"> |`:pyme:` |
+| <img src="./emojis/question.png" height="32"> |`:question:` |
 | <img src="./emojis/ramon.png" height="32"> |`:ramon:` |
 | <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
@@ -82,6 +84,7 @@ very important emojis
 | <img src="./emojis/snowden.jpg" height="32"> |`:snowden:` |
 | <img src="./emojis/sobrero.png" height="32"> |`:sobrero:` |
 | <img src="./emojis/stalin.jpg" height="32"> |`:stalin:` |
+| <img src="./emojis/taleb.png" height="32"> |`:taleb:` |
 | <img src="./emojis/til.png" height="32"> |`:til:` |
 | <img src="./emojis/toggl.png" height="32"> |`:toggl:` |
 | <img src="./emojis/travis.png" height="32"> |`:travis:` |
