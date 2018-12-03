@@ -9,6 +9,7 @@ very important emojis
 | <img src="./emojis/asis.png" height="32"> |`:asis:` |
 | <img src="./emojis/atendedor.jpg" height="32"> |`:atendedor:` |
 | <img src="./emojis/auth0.png" height="32"> |`:auth0:` |
+| <img src="./emojis/azzaro.png" height="32"> |`:azzaro:` |
 | <img src="./emojis/bakunin.gif" height="32"> |`:bakunin:` |
 | <img src="./emojis/bono.jpg" height="32"> |`:bono:` |
 | <img src="./emojis/careta.png" height="32"> |`:careta:` |
