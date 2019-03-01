@@ -39,12 +39,14 @@ very important emojis
 | <img src="./emojis/gatorei.png" height="32"> |`:gatorei:` |
 | <img src="./emojis/hacker.jpg" height="32"> |`:hacker:` |
 | <img src="./emojis/haskell.png" height="32"> |`:haskell:` |
+| <img src="./emojis/hewitt.png" height="32"> |`:hewitt:` |
 | <img src="./emojis/hfacepalm.png" height="32"> |`:hfacepalm:` |
 | <img src="./emojis/hitler.jpg" height="32"> |`:hitler:` |
 | <img src="./emojis/inchequeable.png" height="32"> |`:inchequeable:` |
 | <img src="./emojis/iorio.jpg" height="32"> |`:iorio:` |
 | <img src="./emojis/iorio2.png" height="32"> |`:iorio2:` |
 | <img src="./emojis/jira.jpg" height="32"> |`:jira:` |
+| <img src="./emojis/jjlopez.png" height="32"> |`:jjlopez:` |
 | <img src="./emojis/kafka.jpg" height="32"> |`:kafka:` |
 | <img src="./emojis/kfacepalm.png" height="32"> |`:kfacepalm:` |
 | <img src="./emojis/kuka.png" height="32"> |`:kuka:` |
@@ -56,6 +58,7 @@ very important emojis
 | <img src="./emojis/maestro.png" height="32"> |`:maestro:` |
 | <img src="./emojis/malafama.png" height="32"> |`:malafama:` |
 | <img src="./emojis/mao.jpg" height="32"> |`:mao:` |
+| <img src="./emojis/mcrazy.png" height="32"> |`:mcrazy:` |
 | <img src="./emojis/menem.jpg" height="32"> |`:menem:` |
 | <img src="./emojis/mfacepalm.png" height="32"> |`:mfacepalm:` |
 | <img src="./emojis/milei.png" height="32"> |`:milei:` |
@@ -71,6 +74,7 @@ very important emojis
 | <img src="./emojis/pato.png" height="32"> |`:pato:` |
 | <img src="./emojis/peron.png" height="32"> |`:peron:` |
 | <img src="./emojis/pinedo.jpg" height="32"> |`:pinedo:` |
+| <img src="./emojis/pipa.png" height="32"> |`:pipa:` |
 | <img src="./emojis/pity.png" height="32"> |`:pity:` |
 | <img src="./emojis/pr7.png" height="32"> |`:pr7:` |
 | <img src="./emojis/putin.png" height="32"> |`:putin:` |
