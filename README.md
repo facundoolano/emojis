@@ -30,6 +30,8 @@ very important emojis
 | <img src="./emojis/emacs.png" height="32"> |`:emacs:` |
 | <img src="./emojis/escritorio.jpg" height="32"> |`:escritorio:` |
 | <img src="./emojis/espert.png" height="32"> |`:espert:` |
+| <img src="./emojis/esssto.jpg" height="32"> |`:esssto:` |
+| <img src="./emojis/essto.png" height="32"> |`:essto:` |
 | <img src="./emojis/evil.jpg" height="32"> |`:evil:` |
 | <img src="./emojis/facepalm.png" height="32"> |`:facepalm:` |
 | <img src="./emojis/facturas.png" height="32"> |`:facturas:` |
