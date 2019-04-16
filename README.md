@@ -84,6 +84,8 @@ very important emojis
 | <img src="./emojis/pyme.jpg" height="32"> |`:pyme:` |
 | <img src="./emojis/question.png" height="32"> |`:question:` |
 | <img src="./emojis/ramon.png" height="32"> |`:ramon:` |
+| <img src="./emojis/raul.png" height="32"> |`:raul:` |
+| <img src="./emojis/raydalio.png" height="32"> |`:raydalio:` |
 | <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
 | <img src="./emojis/samid.png" height="32"> |`:samid:` |
@@ -93,6 +95,7 @@ very important emojis
 | <img src="./emojis/stalin.jpg" height="32"> |`:stalin:` |
 | <img src="./emojis/taleb.png" height="32"> |`:taleb:` |
 | <img src="./emojis/til.png" height="32"> |`:til:` |
+| <img src="./emojis/tito.png" height="32"> |`:tito:` |
 | <img src="./emojis/toggl.png" height="32"> |`:toggl:` |
 | <img src="./emojis/travis.png" height="32"> |`:travis:` |
 | <img src="./emojis/troll.png" height="32"> |`:troll:` |
