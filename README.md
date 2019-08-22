@@ -4,6 +4,7 @@ very important emojis
 | image | code |
 |:----:|:-----:|
 | <img src="./emojis/abe.png" height="32"> |`:abe:` |
+| <img src="./emojis/alferdez.jpg" height="32"> |`:alferdez:` |
 | <img src="./emojis/angelici.jpg" height="32"> |`:angelici:` |
 | <img src="./emojis/anibal.png" height="32"> |`:anibal:` |
 | <img src="./emojis/asis.png" height="32"> |`:asis:` |
@@ -15,6 +16,7 @@ very important emojis
 | <img src="./emojis/careta.png" height="32"> |`:careta:` |
 | <img src="./emojis/carrio.png" height="32"> |`:carrio:` |
 | <img src="./emojis/caruso.png" height="32"> |`:caruso:` |
+| <img src="./emojis/casihacker.png" height="32"> |`:casihacker:` |
 | <img src="./emojis/cavallo.jpg" height="32"> |`:cavallo:` |
 | <img src="./emojis/cgt.png" height="32"> |`:cgt:` |
 | <img src="./emojis/chacal.jpg" height="32"> |`:chacal:` |
@@ -27,6 +29,7 @@ very important emojis
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
 | <img src="./emojis/docker.png" height="32"> |`:docker:` |
 | <img src="./emojis/dujovne.png" height="32"> |`:dujovne:` |
+| <img src="./emojis/dyatlov.png" height="32"> |`:dyatlov:` |
 | <img src="./emojis/emacs.png" height="32"> |`:emacs:` |
 | <img src="./emojis/escritorio.jpg" height="32"> |`:escritorio:` |
 | <img src="./emojis/espert.png" height="32"> |`:espert:` |
@@ -36,6 +39,7 @@ very important emojis
 | <img src="./emojis/facepalm.png" height="32"> |`:facepalm:` |
 | <img src="./emojis/facturas.png" height="32"> |`:facturas:` |
 | <img src="./emojis/fantino.png" height="32"> |`:fantino:` |
+| <img src="./emojis/feinman.png" height="32"> |`:feinman:` |
 | <img src="./emojis/flinstone.png" height="32"> |`:flinstone:` |
 | <img src="./emojis/fort.jpg" height="32"> |`:fort:` |
 | <img src="./emojis/gallardo.png" height="32"> |`:gallardo:` |
@@ -89,6 +93,7 @@ very important emojis
 | <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
 | <img src="./emojis/samid.png" height="32"> |`:samid:` |
+| <img src="./emojis/scumbag_google.png" height="32"> |`:scumbag_google:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
 | <img src="./emojis/snowden.jpg" height="32"> |`:snowden:` |
 | <img src="./emojis/sobrero.png" height="32"> |`:sobrero:` |
@@ -103,6 +108,7 @@ very important emojis
 | <img src="./emojis/viale.png" height="32"> |`:viale:` |
 | <img src="./emojis/yellow-card.png" height="32"> |`:yellow-card:` |
 | <img src="./emojis/yono.png" height="32"> |`:yono:` |
+| <img src="./emojis/yosi.png" height="32"> |`:yosi:` |
 | <img src="./emojis/zappa.png" height="32"> |`:zappa:` |
 | <img src="./emojis/zappa2.png" height="32"> |`:zappa2:` |
 | <img src="./emojis/zappawhat.png" height="32"> |`:zappawhat:` |
