@@ -27,6 +27,7 @@ very important emojis
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
 | <img src="./emojis/confused.png" height="32"> |`:confused:` |
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
+| <img src="./emojis/dignidad.png" height="32"> |`:dignidad:` |
 | <img src="./emojis/docker.png" height="32"> |`:docker:` |
 | <img src="./emojis/dujovne.png" height="32"> |`:dujovne:` |
 | <img src="./emojis/dyatlov.png" height="32"> |`:dyatlov:` |
@@ -78,6 +79,7 @@ very important emojis
 | <img src="./emojis/osi.png" height="32"> |`:osi:` |
 | <img src="./emojis/pagani.jpg" height="32"> |`:pagani:` |
 | <img src="./emojis/paoli.png" height="32"> |`:paoli:` |
+| <img src="./emojis/partydalio.gif" height="32"> |`:partydalio:` |
 | <img src="./emojis/pato.png" height="32"> |`:pato:` |
 | <img src="./emojis/peron.png" height="32"> |`:peron:` |
 | <img src="./emojis/pinedo.jpg" height="32"> |`:pinedo:` |
