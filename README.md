@@ -3,6 +3,7 @@ very important emojis
 
 | image | code |
 |:----:|:-----:|
+| <img src="./emojis/README.md" height="32"> |`:README:` |
 | <img src="./emojis/abe.png" height="32"> |`:abe:` |
 | <img src="./emojis/alferdez.jpg" height="32"> |`:alferdez:` |
 | <img src="./emojis/angelici.jpg" height="32"> |`:angelici:` |
@@ -26,6 +27,7 @@ very important emojis
 | <img src="./emojis/coco.jpg" height="32"> |`:coco:` |
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
 | <img src="./emojis/confused.png" height="32"> |`:confused:` |
+| <img src="./emojis/diegocry.jpg" height="32"> |`:diegocry:` |
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
 | <img src="./emojis/dignidad.png" height="32"> |`:dignidad:` |
 | <img src="./emojis/docker.png" height="32"> |`:docker:` |
