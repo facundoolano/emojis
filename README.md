@@ -3,7 +3,6 @@ very important emojis
 
 | image | code |
 |:----:|:-----:|
-| <img src="./emojis/README.md" height="32"> |`:README:` |
 | <img src="./emojis/abe.png" height="32"> |`:abe:` |
 | <img src="./emojis/alferdez.jpg" height="32"> |`:alferdez:` |
 | <img src="./emojis/angelici.jpg" height="32"> |`:angelici:` |
@@ -28,6 +27,7 @@ very important emojis
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
 | <img src="./emojis/confused.png" height="32"> |`:confused:` |
 | <img src="./emojis/diegocry.jpg" height="32"> |`:diegocry:` |
+| <img src="./emojis/diegocry2.jpg" height="32"> |`:diegocry2:` |
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
 | <img src="./emojis/dignidad.png" height="32"> |`:dignidad:` |
 | <img src="./emojis/docker.png" height="32"> |`:docker:` |
@@ -65,6 +65,7 @@ very important emojis
 | <img src="./emojis/lastima-no.png" height="32"> |`:lastima-no:` |
 | <img src="./emojis/lenin.png" height="32"> |`:lenin:` |
 | <img src="./emojis/macri.jpg" height="32"> |`:macri:` |
+| <img src="./emojis/macrisaiyan.jpg" height="32"> |`:macrisaiyan:` |
 | <img src="./emojis/maestro.png" height="32"> |`:maestro:` |
 | <img src="./emojis/malafama.png" height="32"> |`:malafama:` |
 | <img src="./emojis/mao.jpg" height="32"> |`:mao:` |
@@ -83,6 +84,7 @@ very important emojis
 | <img src="./emojis/paoli.png" height="32"> |`:paoli:` |
 | <img src="./emojis/partydalio.gif" height="32"> |`:partydalio:` |
 | <img src="./emojis/pato.png" height="32"> |`:pato:` |
+| <img src="./emojis/pedemonti.png" height="32"> |`:pedemonti:` |
 | <img src="./emojis/peron.png" height="32"> |`:peron:` |
 | <img src="./emojis/pinedo.jpg" height="32"> |`:pinedo:` |
 | <img src="./emojis/pipa.png" height="32"> |`:pipa:` |
