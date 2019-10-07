@@ -28,7 +28,6 @@ very important emojis
 | <img src="./emojis/coco.jpg" height="32"> |`:coco:` |
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
 | <img src="./emojis/confused.png" height="32"> |`:confused:` |
-| <img src="./emojis/diegocry.jpg" height="32"> |`:diegocry:` |
 | <img src="./emojis/diegocry.png" height="32"> |`:diegocry:` |
 | <img src="./emojis/diegocry2.jpg" height="32"> |`:diegocry2:` |
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
