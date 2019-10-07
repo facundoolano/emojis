@@ -3,7 +3,6 @@ very important emojis
 
 | image | code |
 |:----:|:-----:|
-| <img src="./emojis/README.md" height="32"> |`:README:` |
 | <img src="./emojis/abe.png" height="32"> |`:abe:` |
 | <img src="./emojis/accept-the-mystery.png" height="32"> |`:accept-the-mystery:` |
 | <img src="./emojis/alferdez.jpg" height="32"> |`:alferdez:` |
