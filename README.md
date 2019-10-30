@@ -14,6 +14,7 @@ very important emojis
 | <img src="./emojis/azzaro.png" height="32"> |`:azzaro:` |
 | <img src="./emojis/bakunin.gif" height="32"> |`:bakunin:` |
 | <img src="./emojis/bono.jpg" height="32"> |`:bono:` |
+| <img src="./emojis/capferdez.png" height="32"> |`:capferdez:` |
 | <img src="./emojis/careta.png" height="32"> |`:careta:` |
 | <img src="./emojis/carrio.png" height="32"> |`:carrio:` |
 | <img src="./emojis/caruso.png" height="32"> |`:caruso:` |
@@ -40,6 +41,7 @@ very important emojis
 | <img src="./emojis/esssto.jpg" height="32"> |`:esssto:` |
 | <img src="./emojis/essto.png" height="32"> |`:essto:` |
 | <img src="./emojis/estoe.png" height="32"> |`:estoe:` |
+| <img src="./emojis/estom.png" height="32"> |`:estom:` |
 | <img src="./emojis/estop.jpg" height="32"> |`:estop:` |
 | <img src="./emojis/evil.jpg" height="32"> |`:evil:` |
 | <img src="./emojis/facepalm.png" height="32"> |`:facepalm:` |
