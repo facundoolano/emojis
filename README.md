@@ -58,6 +58,7 @@ very important emojis
 | <img src="./emojis/hfacepalm.png" height="32"> |`:hfacepalm:` |
 | <img src="./emojis/hitler.jpg" height="32"> |`:hitler:` |
 | <img src="./emojis/inchequeable.png" height="32"> |`:inchequeable:` |
+| <img src="./emojis/inchequeable_parrot.gif" height="32"> |`:inchequeable_parrot:` |
 | <img src="./emojis/iorio.jpg" height="32"> |`:iorio:` |
 | <img src="./emojis/iorio2.png" height="32"> |`:iorio2:` |
 | <img src="./emojis/jira.jpg" height="32"> |`:jira:` |
@@ -99,6 +100,7 @@ very important emojis
 | <img src="./emojis/pyme.jpg" height="32"> |`:pyme:` |
 | <img src="./emojis/question.png" height="32"> |`:question:` |
 | <img src="./emojis/ramon.png" height="32"> |`:ramon:` |
+| <img src="./emojis/ramon2.png" height="32"> |`:ramon2:` |
 | <img src="./emojis/raul.png" height="32"> |`:raul:` |
 | <img src="./emojis/raydalio.png" height="32"> |`:raydalio:` |
 | <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
