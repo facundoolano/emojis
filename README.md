@@ -52,6 +52,8 @@ very important emojis
 | <img src="./emojis/fort.jpg" height="32"> |`:fort:` |
 | <img src="./emojis/gallardo.png" height="32"> |`:gallardo:` |
 | <img src="./emojis/gatorei.png" height="32"> |`:gatorei:` |
+| <img src="./emojis/grazie.jpg" height="32"> |`:grazie:` |
+| <img src="./emojis/greta.png" height="32"> |`:greta:` |
 | <img src="./emojis/hacker.jpg" height="32"> |`:hacker:` |
 | <img src="./emojis/haskell.png" height="32"> |`:haskell:` |
 | <img src="./emojis/hewitt.png" height="32"> |`:hewitt:` |
