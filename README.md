@@ -100,6 +100,7 @@ very important emojis
 | <img src="./emojis/pr7.png" height="32"> |`:pr7:` |
 | <img src="./emojis/putin.png" height="32"> |`:putin:` |
 | <img src="./emojis/pyme.jpg" height="32"> |`:pyme:` |
+| <img src="./emojis/quedicer.jpg" height="32"> |`:quedicer:` |
 | <img src="./emojis/question.png" height="32"> |`:question:` |
 | <img src="./emojis/ramon.png" height="32"> |`:ramon:` |
 | <img src="./emojis/ramon2.png" height="32"> |`:ramon2:` |
@@ -107,6 +108,7 @@ very important emojis
 | <img src="./emojis/raydalio.png" height="32"> |`:raydalio:` |
 | <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
+| <img src="./emojis/roman.png" height="32"> |`:roman:` |
 | <img src="./emojis/samid.png" height="32"> |`:samid:` |
 | <img src="./emojis/scumbag_google.png" height="32"> |`:scumbag_google:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
