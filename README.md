@@ -28,6 +28,7 @@ very important emojis
 | <img src="./emojis/coco.jpg" height="32"> |`:coco:` |
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
 | <img src="./emojis/confused.png" height="32"> |`:confused:` |
+| <img src="./emojis/corona.png" height="32"> |`:corona:` |
 | <img src="./emojis/diegocry.png" height="32"> |`:diegocry:` |
 | <img src="./emojis/diegocry2.jpg" height="32"> |`:diegocry2:` |
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
@@ -109,6 +110,7 @@ very important emojis
 | <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
 | <img src="./emojis/roman.png" height="32"> |`:roman:` |
+| <img src="./emojis/sabalero.png" height="32"> |`:sabalero:` |
 | <img src="./emojis/samid.png" height="32"> |`:samid:` |
 | <img src="./emojis/scumbag_google.png" height="32"> |`:scumbag_google:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
