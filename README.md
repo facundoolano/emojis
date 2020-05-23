@@ -56,6 +56,7 @@ very important emojis
 | <img src="./emojis/grazie.jpg" height="32"> |`:grazie:` |
 | <img src="./emojis/greta.png" height="32"> |`:greta:` |
 | <img src="./emojis/hacker.jpg" height="32"> |`:hacker:` |
+| <img src="./emojis/happyguzman.png" height="32"> |`:happyguzman:` |
 | <img src="./emojis/haskell.png" height="32"> |`:haskell:` |
 | <img src="./emojis/hewitt.png" height="32"> |`:hewitt:` |
 | <img src="./emojis/hfacepalm.png" height="32"> |`:hfacepalm:` |
