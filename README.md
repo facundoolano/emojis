@@ -5,6 +5,7 @@ very important emojis
 |:----:|:-----:|
 | <img src="./emojis/abe.png" height="32"> |`:abe:` |
 | <img src="./emojis/accept-the-mystery.png" height="32"> |`:accept-the-mystery:` |
+| <img src="./emojis/agente-agente.jpg" height="32"> |`:agente-agente:` |
 | <img src="./emojis/alferdez.jpg" height="32"> |`:alferdez:` |
 | <img src="./emojis/angelici.jpg" height="32"> |`:angelici:` |
 | <img src="./emojis/anibal.png" height="32"> |`:anibal:` |
