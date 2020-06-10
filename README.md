@@ -31,6 +31,7 @@ very important emojis
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
 | <img src="./emojis/confused.png" height="32"> |`:confused:` |
 | <img src="./emojis/corona.png" height="32"> |`:corona:` |
+| <img src="./emojis/david_lunch.png" height="32"> |`:david_lunch:` |
 | <img src="./emojis/diegocry.png" height="32"> |`:diegocry:` |
 | <img src="./emojis/diegocry2.jpg" height="32"> |`:diegocry2:` |
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
