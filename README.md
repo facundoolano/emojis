@@ -14,6 +14,7 @@ very important emojis
 | <img src="./emojis/auth0.png" height="32"> |`:auth0:` |
 | <img src="./emojis/azzaro.png" height="32"> |`:azzaro:` |
 | <img src="./emojis/bakunin.gif" height="32"> |`:bakunin:` |
+| <img src="./emojis/boke-off.png" height="32"> |`:boke-off:` |
 | <img src="./emojis/bono.jpg" height="32"> |`:bono:` |
 | <img src="./emojis/capferdez.png" height="32"> |`:capferdez:` |
 | <img src="./emojis/careta.png" height="32"> |`:careta:` |
