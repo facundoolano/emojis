@@ -116,6 +116,7 @@ very important emojis
 | <img src="./emojis/roman.png" height="32"> |`:roman:` |
 | <img src="./emojis/sabalero.png" height="32"> |`:sabalero:` |
 | <img src="./emojis/samid.png" height="32"> |`:samid:` |
+| <img src="./emojis/scaloni.png" height="32"> |`:scaloni:` |
 | <img src="./emojis/scumbag_google.png" height="32"> |`:scumbag_google:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
 | <img src="./emojis/snowden.jpg" height="32"> |`:snowden:` |
