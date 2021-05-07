@@ -100,6 +100,7 @@ very important emojis
 | <img src="./emojis/pedemonti.png" height="32"> |`:pedemonti:` |
 | <img src="./emojis/peron.png" height="32"> |`:peron:` |
 | <img src="./emojis/pinedo.jpg" height="32"> |`:pinedo:` |
+| <img src="./emojis/pinto.png" height="32"> |`:pinto:` |
 | <img src="./emojis/pipa.png" height="32"> |`:pipa:` |
 | <img src="./emojis/pity.png" height="32"> |`:pity:` |
 | <img src="./emojis/pr7.png" height="32"> |`:pr7:` |
