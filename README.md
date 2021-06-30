@@ -154,6 +154,7 @@ very important emojis
 | <img src="./emojis/scaloni.png" height="32"> |`:scaloni:` |
 | <img src="./emojis/scumbag_google.png" height="32"> |`:scumbag_google:` |
 | <img src="./emojis/secret_santa_pepe.png" height="32"> |`:secret_santa_pepe:` |
+| <img src="./emojis/silent-anakin.png" height="32"> |`:silent-anakin:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
 | <img src="./emojis/snowden.jpg" height="32"> |`:snowden:` |
 | <img src="./emojis/sobrero.png" height="32"> |`:sobrero:` |
@@ -170,6 +171,7 @@ very important emojis
 | <img src="./emojis/til.png" height="32"> |`:til:` |
 | <img src="./emojis/tito.png" height="32"> |`:tito:` |
 | <img src="./emojis/toggl.png" height="32"> |`:toggl:` |
+| <img src="./emojis/tosco.png" height="32"> |`:tosco:` |
 | <img src="./emojis/travis.png" height="32"> |`:travis:` |
 | <img src="./emojis/troll.png" height="32"> |`:troll:` |
 | <img src="./emojis/trump.png" height="32"> |`:trump:` |
