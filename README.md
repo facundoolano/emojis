@@ -86,6 +86,7 @@ very important emojis
 | <img src="./emojis/iorio2.png" height="32"> |`:iorio2:` |
 | <img src="./emojis/jira.jpg" height="32"> |`:jira:` |
 | <img src="./emojis/jjlopez.png" height="32"> |`:jjlopez:` |
+| <img src="./emojis/joe-armstrong.png" height="32"> |`:joe-armstrong:` |
 | <img src="./emojis/kafka.jpg" height="32"> |`:kafka:` |
 | <img src="./emojis/kfacepalm.png" height="32"> |`:kfacepalm:` |
 | <img src="./emojis/kuka.png" height="32"> |`:kuka:` |
