@@ -3,8 +3,6 @@ very important emojis
 
 | image | code |
 |:----:|:-----:|
-| <img src="./emojis/PepeMcCree.png" height="32"> |`:PepeMcCree:` |
-| <img src="./emojis/SantaPepe.png" height="32"> |`:SantaPepe:` |
 | <img src="./emojis/abe.png" height="32"> |`:abe:` |
 | <img src="./emojis/accept-the-mystery.png" height="32"> |`:accept-the-mystery:` |
 | <img src="./emojis/agente-agente.jpg" height="32"> |`:agente-agente:` |
