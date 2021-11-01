@@ -135,6 +135,7 @@ very important emojis
 | <img src="./emojis/popcorn_pepe.gif" height="32"> |`:popcorn_pepe:` |
 | <img src="./emojis/popcorn_pepe2.gif" height="32"> |`:popcorn_pepe2:` |
 | <img src="./emojis/pr7.png" height="32"> |`:pr7:` |
+| <img src="./emojis/proceda.png" height="32"> |`:proceda:` |
 | <img src="./emojis/putin.png" height="32"> |`:putin:` |
 | <img src="./emojis/pyme.jpg" height="32"> |`:pyme:` |
 | <img src="./emojis/quedicer.jpg" height="32"> |`:quedicer:` |
