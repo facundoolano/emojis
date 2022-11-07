@@ -137,6 +137,8 @@ very important emojis
 | <img src="./emojis/samid.png" height="32"> |`:samid:` |
 | <img src="./emojis/scaloni.png" height="32"> |`:scaloni:` |
 | <img src="./emojis/scumbag_google.png" height="32"> |`:scumbag_google:` |
+| <img src="./emojis/seal-of-approval.png" height="32"> |`:seal-of-approval:` |
+| <img src="./emojis/seal-of-approval2.png" height="32"> |`:seal-of-approval2:` |
 | <img src="./emojis/si.jpg" height="32"> |`:si:` |
 | <img src="./emojis/silent-anakin.png" height="32"> |`:silent-anakin:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
