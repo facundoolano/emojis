@@ -65,6 +65,7 @@ very important emojis
 | <img src="./emojis/grazie.jpg" height="32"> |`:grazie:` |
 | <img src="./emojis/greta.png" height="32"> |`:greta:` |
 | <img src="./emojis/hacker.jpg" height="32"> |`:hacker:` |
+| <img src="./emojis/happydiego.png" height="32"> |`:happydiego:` |
 | <img src="./emojis/happyguzman.png" height="32"> |`:happyguzman:` |
 | <img src="./emojis/haskell.png" height="32"> |`:haskell:` |
 | <img src="./emojis/hewitt.png" height="32"> |`:hewitt:` |
@@ -110,6 +111,7 @@ very important emojis
 | <img src="./emojis/partydalio.gif" height="32"> |`:partydalio:` |
 | <img src="./emojis/pato.png" height="32"> |`:pato:` |
 | <img src="./emojis/pedemonti.png" height="32"> |`:pedemonti:` |
+| <img src="./emojis/pelito.png" height="32"> |`:pelito:` |
 | <img src="./emojis/peron.png" height="32"> |`:peron:` |
 | <img src="./emojis/pinedo.jpg" height="32"> |`:pinedo:` |
 | <img src="./emojis/pinto-party.gif" height="32"> |`:pinto-party:` |
