@@ -33,16 +33,22 @@ very important emojis
 | <img src="./emojis/conchita.png" height="32"> |`:conchita:` |
 | <img src="./emojis/confused.png" height="32"> |`:confused:` |
 | <img src="./emojis/corona.png" height="32"> |`:corona:` |
+| <img src="./emojis/datadoge.gif" height="32"> |`:datadoge:` |
 | <img src="./emojis/david_lunch.png" height="32"> |`:david_lunch:` |
+| <img src="./emojis/developers.gif" height="32"> |`:developers:` |
 | <img src="./emojis/diegocry.png" height="32"> |`:diegocry:` |
 | <img src="./emojis/diegocry2.jpg" height="32"> |`:diegocry2:` |
 | <img src="./emojis/diegote.jpg" height="32"> |`:diegote:` |
 | <img src="./emojis/dignidad.png" height="32"> |`:dignidad:` |
+| <img src="./emojis/disappear.gif" height="32"> |`:disappear:` |
 | <img src="./emojis/docker.png" height="32"> |`:docker:` |
+| <img src="./emojis/doctorcry.png" height="32"> |`:doctorcry:` |
+| <img src="./emojis/doge.png" height="32"> |`:doge:` |
 | <img src="./emojis/doomer.png" height="32"> |`:doomer:` |
 | <img src="./emojis/dujovne.png" height="32"> |`:dujovne:` |
 | <img src="./emojis/dyatlov.png" height="32"> |`:dyatlov:` |
 | <img src="./emojis/emacs.png" height="32"> |`:emacs:` |
+| <img src="./emojis/enterado.png" height="32"> |`:enterado:` |
 | <img src="./emojis/escritorio.jpg" height="32"> |`:escritorio:` |
 | <img src="./emojis/espert.png" height="32"> |`:espert:` |
 | <img src="./emojis/esssto.jpg" height="32"> |`:esssto:` |
@@ -55,6 +61,7 @@ very important emojis
 | <img src="./emojis/facepalm.png" height="32"> |`:facepalm:` |
 | <img src="./emojis/facturas.png" height="32"> |`:facturas:` |
 | <img src="./emojis/fake-news.gif" height="32"> |`:fake-news:` |
+| <img src="./emojis/fantasma.png" height="32"> |`:fantasma:` |
 | <img src="./emojis/fantino.png" height="32"> |`:fantino:` |
 | <img src="./emojis/feinman.png" height="32"> |`:feinman:` |
 | <img src="./emojis/flinstone.png" height="32"> |`:flinstone:` |
@@ -63,6 +70,7 @@ very important emojis
 | <img src="./emojis/gatorei.png" height="32"> |`:gatorei:` |
 | <img src="./emojis/god-no.jpg" height="32"> |`:god-no:` |
 | <img src="./emojis/grazie.jpg" height="32"> |`:grazie:` |
+| <img src="./emojis/grazie.png" height="32"> |`:grazie:` |
 | <img src="./emojis/greta.png" height="32"> |`:greta:` |
 | <img src="./emojis/hacker.jpg" height="32"> |`:hacker:` |
 | <img src="./emojis/happydiego.png" height="32"> |`:happydiego:` |
@@ -73,12 +81,15 @@ very important emojis
 | <img src="./emojis/hitler.jpg" height="32"> |`:hitler:` |
 | <img src="./emojis/inchequeable.png" height="32"> |`:inchequeable:` |
 | <img src="./emojis/inchequeable_parrot.gif" height="32"> |`:inchequeable_parrot:` |
+| <img src="./emojis/inobservable.png" height="32"> |`:inobservable:` |
 | <img src="./emojis/interesante.png" height="32"> |`:interesante:` |
 | <img src="./emojis/iorio.jpg" height="32"> |`:iorio:` |
 | <img src="./emojis/iorio2.png" height="32"> |`:iorio2:` |
+| <img src="./emojis/iseewhatyoudidthere.png" height="32"> |`:iseewhatyoudidthere:` |
 | <img src="./emojis/jira.jpg" height="32"> |`:jira:` |
 | <img src="./emojis/jjlopez.png" height="32"> |`:jjlopez:` |
 | <img src="./emojis/joe-armstrong.png" height="32"> |`:joe-armstrong:` |
+| <img src="./emojis/jurassic.png" height="32"> |`:jurassic:` |
 | <img src="./emojis/kafka.jpg" height="32"> |`:kafka:` |
 | <img src="./emojis/kfacepalm.png" height="32"> |`:kfacepalm:` |
 | <img src="./emojis/kill-it-with-fire.png" height="32"> |`:kill-it-with-fire:` |
@@ -119,6 +130,7 @@ very important emojis
 | <img src="./emojis/pipa.png" height="32"> |`:pipa:` |
 | <img src="./emojis/pity.png" height="32"> |`:pity:` |
 | <img src="./emojis/ponzi.png" height="32"> |`:ponzi:` |
+| <img src="./emojis/popcorn.gif" height="32"> |`:popcorn:` |
 | <img src="./emojis/pr7.png" height="32"> |`:pr7:` |
 | <img src="./emojis/proceda.png" height="32"> |`:proceda:` |
 | <img src="./emojis/pull-request.png" height="32"> |`:pull-request:` |
@@ -135,12 +147,14 @@ very important emojis
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
 | <img src="./emojis/roman.png" height="32"> |`:roman:` |
 | <img src="./emojis/roman2.png" height="32"> |`:roman2:` |
+| <img src="./emojis/roman3.png" height="32"> |`:roman3:` |
 | <img src="./emojis/sabalero.png" height="32"> |`:sabalero:` |
 | <img src="./emojis/samid.png" height="32"> |`:samid:` |
 | <img src="./emojis/scaloni.png" height="32"> |`:scaloni:` |
 | <img src="./emojis/scumbag_google.png" height="32"> |`:scumbag_google:` |
 | <img src="./emojis/seal-of-approval.png" height="32"> |`:seal-of-approval:` |
 | <img src="./emojis/seal-of-approval2.png" height="32"> |`:seal-of-approval2:` |
+| <img src="./emojis/shrok.png" height="32"> |`:shrok:` |
 | <img src="./emojis/si.jpg" height="32"> |`:si:` |
 | <img src="./emojis/silent-anakin.png" height="32"> |`:silent-anakin:` |
 | <img src="./emojis/smoke.gif" height="32"> |`:smoke:` |
@@ -150,8 +164,11 @@ very important emojis
 | <img src="./emojis/stalin.jpg" height="32"> |`:stalin:` |
 | <img src="./emojis/stonks-intensify.gif" height="32"> |`:stonks-intensify:` |
 | <img src="./emojis/stonks.png" height="32"> |`:stonks:` |
+| <img src="./emojis/surprised-pikachu.png" height="32"> |`:surprised-pikachu:` |
+| <img src="./emojis/takemymoney.png" height="32"> |`:takemymoney:` |
 | <img src="./emojis/taleb.png" height="32"> |`:taleb:` |
 | <img src="./emojis/terminator.png" height="32"> |`:terminator:` |
+| <img src="./emojis/thisisfine.gif" height="32"> |`:thisisfine:` |
 | <img src="./emojis/til.png" height="32"> |`:til:` |
 | <img src="./emojis/tito.png" height="32"> |`:tito:` |
 | <img src="./emojis/toggl.png" height="32"> |`:toggl:` |
@@ -169,4 +186,5 @@ very important emojis
 | <img src="./emojis/zappa2.png" height="32"> |`:zappa2:` |
 | <img src="./emojis/zappawhat.png" height="32"> |`:zappawhat:` |
 | <img src="./emojis/zappawhat2.png" height="32"> |`:zappawhat2:` |
+| <img src="./emojis/zoomer.png" height="32"> |`:zoomer:` |
 
