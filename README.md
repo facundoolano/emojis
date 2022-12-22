@@ -119,6 +119,7 @@ very important emojis
 | <img src="./emojis/osi.png" height="32"> |`:osi:` |
 | <img src="./emojis/pagani.jpg" height="32"> |`:pagani:` |
 | <img src="./emojis/paoli.png" height="32"> |`:paoli:` |
+| <img src="./emojis/parrotpoop.gif" height="32"> |`:parrotpoop:` |
 | <img src="./emojis/partydalio.gif" height="32"> |`:partydalio:` |
 | <img src="./emojis/pato.png" height="32"> |`:pato:` |
 | <img src="./emojis/pedemonti.png" height="32"> |`:pedemonti:` |
