@@ -66,6 +66,7 @@ very important emojis
 | <img src="./emojis/feinman.png" height="32"> |`:feinman:` |
 | <img src="./emojis/flinstone.png" height="32"> |`:flinstone:` |
 | <img src="./emojis/fort.jpg" height="32"> |`:fort:` |
+| <img src="./emojis/fuera.gif" height="32"> |`:fuera:` |
 | <img src="./emojis/gallardo.png" height="32"> |`:gallardo:` |
 | <img src="./emojis/gatorei.png" height="32"> |`:gatorei:` |
 | <img src="./emojis/god-no.jpg" height="32"> |`:god-no:` |
