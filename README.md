@@ -146,6 +146,7 @@ very important emojis
 | <img src="./emojis/raul.png" height="32"> |`:raul:` |
 | <img src="./emojis/raydalio.png" height="32"> |`:raydalio:` |
 | <img src="./emojis/red-card.png" height="32"> |`:red-card:` |
+| <img src="./emojis/reject-the-mystery.png" height="32"> |`:reject-the-mystery:` |
 | <img src="./emojis/rico.jpg" height="32"> |`:rico:` |
 | <img src="./emojis/roman.png" height="32"> |`:roman:` |
 | <img src="./emojis/roman2.png" height="32"> |`:roman2:` |
