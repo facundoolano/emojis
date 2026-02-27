@@ -94,6 +94,7 @@ very important emojis
 | <img src="./emojis/kafka.jpg" height="32"> |`:kafka:` |
 | <img src="./emojis/kfacepalm.png" height="32"> |`:kfacepalm:` |
 | <img src="./emojis/kill-it-with-fire.png" height="32"> |`:kill-it-with-fire:` |
+| <img src="./emojis/klaukol.png" height="32"> |`:klaukol:` |
 | <img src="./emojis/kuka.png" height="32"> |`:kuka:` |
 | <img src="./emojis/lambda.png" height="32"> |`:lambda:` |
 | <img src="./emojis/lamolina.png" height="32"> |`:lamolina:` |
